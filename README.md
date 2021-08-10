@@ -1,5 +1,24 @@
 - <h1>👋 Hi there, I’m Shyamal </h1>
 - <h3> 👨🏻‍💻 About Me </h3>
+
+-🎓 &nbsp; Studying Computer Science, Computer Programming.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...

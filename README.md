@@ -55,5 +55,7 @@ You can click the Preview link to take a look at your changes.
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shyamal90&show_icons=true&locale=en&layout=compact" alt="shyamal90" /></p>
 
+![Shyamal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shyamal90&show_icons=true&theme=radical)
+
 <img src="https://activity-graph.herokuapp.com/graph?username=shyamal90" />
 

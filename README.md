@@ -1,7 +1,7 @@
 <!-- - <img src="images/bg.gif" /> -->
-- <h1 align="center">👋 Hi there, I’m Shyamal </h1>
-- <h3 align="center">A passionate full stack developer from India</h3>
-- <h3> 👨🏻‍💻 About Me </h3>
+ <h1 align="center">👋 Hi there, I’m Shyamal </h1>
+ <h3 align="center">A passionate full stack developer from India</h3>
+ <h3> 👨🏻‍💻 About Me </h3>
 
 -🎓 &nbsp; Studying Computer Science, Computer Programming.
 

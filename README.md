@@ -1,6 +1,6 @@
 <!-- - <img src="images/bg.gif" /> -->
  <h1 align="center">👋 Hi there, I’m Shyamal </h1>
- <h3 align="center">A passionate full stack developer from India</h3>
+ <h3 align="center">A passionate Aspiring Data Analyst from India</h3>
  <h3> 👨🏻‍💻 About Me </h3>
 
 -🎓 &nbsp; Studying Computer Science, Computer Programming.
@@ -36,11 +36,13 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shyamal90&label=Profile%20views&color=0e75b6&style=flat" alt="shyamal90" /> </p>
 
-- 🔭 I’m currently learning web development [from Masai School,](Bengaluru, Karnataka)
-
-- 🌱 I’m currently learning **React**
-
-- 💬 Ask me about **HTML, CSS, JavaScript, Data Structure & Algorithms, React, MongoDB, Express , NodeJs**
+- 💼 Former React Developer with 2.5+ years of experience
+- 🏢 Worked at GlobalLogic for 11 months
+- 🏢 Worked at iCIMS for 1.6 years
+- 📊 Currently transitioning into a Data Analyst role
+- 🔭 Exploring SQL, Excel, Power BI, and Data Visualisation
+- 🌱 I’m currently learning **SQL**, **Power BI** & **Data Analytics**
+- 💡 Passionate about solving business problems using data
 
 - 📫 How to reach me **shyamalsardar90@gmail.com**
 
